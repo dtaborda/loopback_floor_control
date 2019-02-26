@@ -1,0 +1,26 @@
+{
+  "ids": {
+    "User": 5,
+    "AccessToken": 3,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "validation_server": 1
+  },
+  "models": {
+    "User": {
+      "1": "{\"username\":\"obrero1\",\"password\":\"$2a$10$n9hTupiiMRfeBmcLndXe1urzPV695HAGkc55cF779ilYlClkXSszu\",\"email\":\"obrero1@vksur.com\",\"emailVerified\":false,\"role\":\"operador\",\"id\":1}",
+      "2": "{\"username\":\"obrero2\",\"password\":\"$2a$10$qMNBJLqlvRTQib.FiB4yU.oftCAkjeu6MA6vtqkigpDxrB690CsJe\",\"email\":\"obrero2@vksur.com\",\"emailVerified\":false,\"role\":\"operador\",\"id\":2}",
+      "3": "{\"username\":\"supervisor1\",\"password\":\"$2a$10$XBz59CwEKCfmWEt1JPV9FepjMhqCdf4HX/UJMMbPB9dfhr6BCztYy\",\"email\":\"supervisor1@vksur.com\",\"emailVerified\":false,\"role\":\"supervisor\",\"id\":3}",
+      "4": "{\"username\":\"supervisor2\",\"password\":\"$2a$10$LO3wkc/8t2nru66yB1r62e/sSplnif6QLk30r78hggwnuKtWsLksi\",\"email\":\"supervisor2@vksur.com\",\"emailVerified\":false,\"role\":\"supervisor\",\"id\":4}"
+    },
+    "AccessToken": {
+      "s0g6AyDsYmMgaDPadKo6tWfwkchE9JVnR9thh0BbUn73HtsuPlE3uHq800QlozI0": "{\"id\":\"s0g6AyDsYmMgaDPadKo6tWfwkchE9JVnR9thh0BbUn73HtsuPlE3uHq800QlozI0\",\"ttl\":1209600,\"created\":\"2019-02-26T18:56:31.763Z\",\"userId\":4}",
+      "ETrMlGGO4iwDZBI6FjAxDh0qxbmt3m9OTTfVqAEhrpbrEjJo4D5ay0Y9PiXvZBln": "{\"id\":\"ETrMlGGO4iwDZBI6FjAxDh0qxbmt3m9OTTfVqAEhrpbrEjJo4D5ay0Y9PiXvZBln\",\"ttl\":1209600,\"created\":\"2019-02-26T18:57:00.867Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "validation_server": {}
+  }
+}
